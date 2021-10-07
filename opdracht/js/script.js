@@ -72,7 +72,7 @@ function versleutel(){
 
 
     // console.log("versleuteld bericht: " + positiesNaarString(outputArray));
-    // document.querySelector("#output").value = positiesNaarString(outputArray);
+    document.querySelector("#output").value = positiesNaarString(outputArray);
     strCodewordFull = [];
 }
 
